@@ -4,7 +4,7 @@ import threading
 import time
 
 import pyperclip as pc
-from proxyserver import *
+from webproxy import *
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
